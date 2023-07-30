@@ -1,0 +1,3 @@
+/Users/pedrovazquez/Desktop/Tarea Divisores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/Desktop/Tarea Divisores/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/Desktop/Tarea Divisores/cmake-build-debug/CMakeFiles/Tarea_Divisores.dir

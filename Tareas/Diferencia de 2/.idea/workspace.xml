@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Diferencia_de_2" targetName="Diferencia_de_2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="984dc273-eef9-4cf9-a600-e262839464b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1cay7hQTt1SXQG3BpH9QrggAvju" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Diferencia_de_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Diferencia_de_2" TARGET_NAME="Diferencia_de_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Diferencia_de_2" RUN_TARGET_NAME="Diferencia_de_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="984dc273-eef9-4cf9-a600-e262839464b9" name="Default Changelist" comment="" />
+      <created>1590780832270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590780832270</updated>
+      <workItem from="1590780834263" duration="6746000" />
+      <workItem from="1590793980503" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1057" height="317" key="GridCell.Tab.0.bottom" timestamp="1590794008114">
+      <screen x="0" y="23" width="2560" height="1389" />
+    </state>
+    <state width="1057" height="317" key="GridCell.Tab.0.bottom/0.23.2560.1389@0.23.2560.1389" timestamp="1590794008114" />
+    <state width="1057" height="317" key="GridCell.Tab.0.center" timestamp="1590794008113">
+      <screen x="0" y="23" width="2560" height="1389" />
+    </state>
+    <state width="1057" height="317" key="GridCell.Tab.0.center/0.23.2560.1389@0.23.2560.1389" timestamp="1590794008113" />
+    <state width="1057" height="317" key="GridCell.Tab.0.left" timestamp="1590794008112">
+      <screen x="0" y="23" width="2560" height="1389" />
+    </state>
+    <state width="1057" height="317" key="GridCell.Tab.0.left/0.23.2560.1389@0.23.2560.1389" timestamp="1590794008112" />
+    <state width="1057" height="317" key="GridCell.Tab.0.right" timestamp="1590794008113">
+      <screen x="0" y="23" width="2560" height="1389" />
+    </state>
+    <state width="1057" height="317" key="GridCell.Tab.0.right/0.23.2560.1389@0.23.2560.1389" timestamp="1590794008113" />
+  </component>
+</project>

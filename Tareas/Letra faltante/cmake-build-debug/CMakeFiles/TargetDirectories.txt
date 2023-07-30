@@ -1,0 +1,3 @@
+/Users/pedrovazquez/OneDrive - Universidad de Guanajuato/Universidad/UG/01 Licenciaturas/Lic. Sistemas de Información Administrativa/01 Materias/Programación básica/Tareas Moodle/Letra faltante/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquez/OneDrive - Universidad de Guanajuato/Universidad/UG/01 Licenciaturas/Lic. Sistemas de Información Administrativa/01 Materias/Programación básica/Tareas Moodle/Letra faltante/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquez/OneDrive - Universidad de Guanajuato/Universidad/UG/01 Licenciaturas/Lic. Sistemas de Información Administrativa/01 Materias/Programación básica/Tareas Moodle/Letra faltante/cmake-build-debug/CMakeFiles/Letra_faltante.dir

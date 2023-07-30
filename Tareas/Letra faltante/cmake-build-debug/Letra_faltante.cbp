@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Letra_faltante"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/pedrovazquez/OneDrive - Universidad de Guanajuato/Universidad/UG/01 Licenciaturas/Lic. Sistemas de Información Administrativa/01 Materias/Programación básica/Tareas Moodle/Letra faltante/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/pedrovazquez/OneDrive - Universidad de Guanajuato/Universidad/UG/01 Licenciaturas/Lic. Sistemas de Información Administrativa/01 Materias/Programación básica/Tareas Moodle/Letra faltante/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/pedrovazquez/OneDrive - Universidad de Guanajuato/Universidad/UG/01 Licenciaturas/Lic. Sistemas de Información Administrativa/01 Materias/Programación básica/Tareas Moodle/Letra faltante/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Letra_faltante">
+				<Option output="/Users/pedrovazquez/OneDrive - Universidad de Guanajuato/Universidad/UG/01 Licenciaturas/Lic. Sistemas de Información Administrativa/01 Materias/Programación básica/Tareas Moodle/Letra faltante/cmake-build-debug/Letra_faltante" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/pedrovazquez/OneDrive - Universidad de Guanajuato/Universidad/UG/01 Licenciaturas/Lic. Sistemas de Información Administrativa/01 Materias/Programación básica/Tareas Moodle/Letra faltante/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 Letra_faltante"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Letra_faltante/fast">
+				<Option output="/Users/pedrovazquez/OneDrive - Universidad de Guanajuato/Universidad/UG/01 Licenciaturas/Lic. Sistemas de Información Administrativa/01 Materias/Programación básica/Tareas Moodle/Letra faltante/cmake-build-debug/Letra_faltante" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/pedrovazquez/OneDrive - Universidad de Guanajuato/Universidad/UG/01 Licenciaturas/Lic. Sistemas de Información Administrativa/01 Materias/Programación básica/Tareas Moodle/Letra faltante/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 Letra_faltante/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/pedrovazquez/OneDrive\ -\ Universidad\ de\ Guanajuato/Universidad/UG/01\ Licenciaturas/Lic.\ Sistemas\ de\ Información\ Administrativa/01\ Materias/Programación\ básica/Tareas\ Moodle/Letra\ faltante/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/pedrovazquez/OneDrive - Universidad de Guanajuato/Universidad/UG/01 Licenciaturas/Lic. Sistemas de Información Administrativa/01 Materias/Programación básica/Tareas Moodle/Letra faltante/principal.c">
+			<Option target="Letra_faltante"/>
+		</Unit>
+		<Unit filename="/Users/pedrovazquez/OneDrive - Universidad de Guanajuato/Universidad/UG/01 Licenciaturas/Lic. Sistemas de Información Administrativa/01 Materias/Programación básica/Tareas Moodle/Letra faltante/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
