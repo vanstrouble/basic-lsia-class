@@ -72,23 +72,23 @@ Seguir un estándar de estilo de codificación consistente, como PEP 8 en el cas
 
 ### Introducción a la programación
 
-[1988 - Tremblay - Introducción a las Ciencias de la Computacion enfoque algoritmico, Chapter2.pdf](Programacio%CC%81n%20ba%CC%81sica%208c67b112a0b54b4fa729edec1e00b4d4/1988_-_Tremblay_-_Introduccion_a_las_Ciencias_de_la_Computacion_enfoque_algoritmico_Chapter2.pdf)
+<a href="Docs/01 Introducción a la programación/1988 - Tremblay - Introducción a las Ciencias de la Computacion enfoque algoritmico, Chapter2.pdf" download>1988 - Tremblay - Introducción a las Ciencias de la Computacion enfoque algoritmico, Chapter 2</a>
 
-[2004 - Concepts, Techniques, and Models of Computer Programming.pdf](Programacio%CC%81n%20ba%CC%81sica%208c67b112a0b54b4fa729edec1e00b4d4/2004_-_Concepts_Techniques_and_Models_of_Computer_Programming.pdf)
+<a href="Docs/01 Introducción a la programación/2004 - Concepts, Techniques, and Models of Computer Programming.pdf" download>2004 - Concepts, Techniques, and Models of Computer Programming</a>
 
-[2014 - Stevanovic - Advanced C and C Compiling, Chapter 2.pdf](Programacio%CC%81n%20ba%CC%81sica%208c67b112a0b54b4fa729edec1e00b4d4/2014_-_Stevanovic_-_Advanced_C_and_C_Compiling_Chapter_2.pdf)
+<a href="Docs/01 Introducción a la programación/2014 - Stevanovic - Advanced C and C Compiling, Chapter 2.pdf" download>2014 - Stevanovic - Advanced C and C Compiling, Chapter 2</a>
 
 ### Control de flujo
 
-[2020 - Szuhay - Learning C Programming, Chapter 6,7.pdf](Programacio%CC%81n%20ba%CC%81sica%208c67b112a0b54b4fa729edec1e00b4d4/2020_-_Szuhay_-_Learning_C_Programming_Chapter_67.pdf)
+<a href="Docs/02 Control de flujo/2020 - Szuhay - Learning C Programming, Chapter 6,7.pdf" download>2020 - Szuhay - Learning C Programming, Chapter 6, 7</a>
 
 ### Elementos del lenguaje de programación
 
-[2020 - Szuhay - Learning C Programming, Chapter 4,5.pdf](Programacio%CC%81n%20ba%CC%81sica%208c67b112a0b54b4fa729edec1e00b4d4/2020_-_Szuhay_-_Learning_C_Programming_Chapter_45.pdf)
+<a href="Docs/03 Elementos del lenguaje de programación/2020 - Szuhay - Learning C Programming, Chapter 4,5.pdf" download>2020 - Szuhay - Learning C Programming, Chapter 4, 5</a>
 
 ### Punteros
 
-[2013 - Reese - Understanding and Using C Pointers, Chapter 1,2.pdf](Programacio%CC%81n%20ba%CC%81sica%208c67b112a0b54b4fa729edec1e00b4d4/2013_-_Reese_-_Understanding_and_Using_C_Pointers_Chapter_12.pdf)
+<a href="Docs/Punteros/2013 - Reese - Understanding and Using C Pointers, Chapter 1,2.pdf" download>2013 - Reese - Understanding and Using C Pointers, Chapter 1, 2</a>
 
 ---
 
