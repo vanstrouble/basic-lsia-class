@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pedrovazquez/Desktop/Proyecto Final Sistema Administrativo (Netflix)/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

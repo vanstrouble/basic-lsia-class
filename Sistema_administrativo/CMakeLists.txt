@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(Proyecto_Final_Sistema_Administrativo__Netflix_ C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(Proyecto_Final_Sistema_Administrativo__Netflix_ main.c)
