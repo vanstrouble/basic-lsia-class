@@ -1,0 +1,3 @@
+/Users/pedrovazquezg/Desktop/ProyectoFinalPB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedrovazquezg/Desktop/ProyectoFinalPB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedrovazquezg/Desktop/ProyectoFinalPB/cmake-build-debug/CMakeFiles/ProyectoFinalPB.dir
